@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+.home {
+    display: flex;
+    flex-direction: row;
+    margin-top: 160px;
+    margin-right: 60px;
+}
+
+.story h6 {
+    color: #2C9FAB;
+    display: inline-block;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 20px;
+    margin-left: 30px;
+}
+
+.right_line {
+    background-color: #2C9FAB;
+    width: 110px;
+    display: inline-block;
+    height: 2px;
+    margin-left: 20px;
+    position: relative;
+
+}
+
+.para h1 {
+    font-family: 'Courgette', cursive;
+    font-size: 50px;
+    line-height: 75px;
+    font-weight: 300;
+    margin-top: -30px;
+    margin-left: 30px;
+    color: #1D1A25;
+}
+.circle{
+    position: absolute;
+    top:779px;
+    
+}
+
+.para p {
+    margin-left: 30px;
+    margin-top: -30px;
+    color: #616F7D;
+    font-size: 20px;
+    line-height: 30px;
+    text-rendering: optimizeLegibility;
+    font-family: sans-serif;
+    margin-right: 20px;
+}
+
+.btn button {
+    background-color: #0A568C;
+    color: #fff;
+    display: inline-block;
+    font-size: 20px;
+    line-height: 20px;
+    padding: 18px 29px;
+    border: 2px solid #0A568C;
+    border-radius: 30px;
+    position: relative;
+    z-index: 9;
+    cursor: pointer;
+    font-weight: 500;
+    margin-left: 30px;
+   margin-bottom: 40px;
+
+}
+
+.btn button:hover {
+border-color: #2C9FAB ;
+    background-color: #fff;
+    color: #2C9FAB;
+}

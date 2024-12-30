@@ -1,0 +1,120 @@
+.servics {
+    width: 100%;
+   position: absolute;
+   z-index: 1;
+   margin-top: 50px;
+    
+ 
+
+  }
+  
+  .aboutHeading {
+ 
+    font-size: 1.5rem;
+    padding: 7px;
+    margin-left: 30px;
+    
+  
+  
+  }
+  
+  .para {
+    color: #fff;
+    margin-top: 1rem;
+    margin-left: 10px;
+    width: 100%;
+  
+  }
+  
+  .para p {
+    font-size: 1rem;
+  
+  }
+  
+  /* @media screen and (max-width:768px) {
+    .para {
+     margin-top: 4px;
+     text-align: justify;
+      
+    }
+  
+    .para p {
+      font-size: 15px;
+      width: 59%;
+    
+      
+    }
+    .aboutHeading {
+      font-size: 20px;
+      padding: 6px;
+     
+    
+    
+    }
+  
+  } */
+  
+  /* @media screen and (max-width:576px) {
+    .para {
+     margin-top: 4px;
+     text-align: justify;
+      
+    }
+  
+    .para p {
+      font-size: 13px;
+      width: 44%;
+      margin-top: -5px;
+      font-size: 100;
+    
+      
+    }
+    .aboutHeading {
+      font-size: 16px;
+     }
+  
+  }
+   */
+  /* @media screen and (max-width:480px) {
+    .para {
+     margin-top: 4px;
+     text-align: justify;
+      
+    }
+  
+    .para p {
+      width: 36%;
+      margin-top: -5px;
+      font-size:small;
+    
+    
+      
+    }
+    .aboutHeading {
+      font-size: 16px;
+     }
+  
+  }
+   */
+  
+  /* @media screen and (max-width:320px) {
+    .para {
+     margin-top: 6px;
+     text-align: justify;
+      
+    }
+  
+    .para p {
+      width: 23%;
+      margin-top: -8px;
+      font-size:12px;
+    
+    
+    
+      
+    }
+    .aboutHeading {
+      font-size: 14px;
+     }
+  
+  } */

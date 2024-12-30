@@ -1,0 +1,161 @@
+.vision  {
+    background-color: #757575;
+    border-radius: 20px;
+    margin-top: 40px;
+    width: 98%;
+
+    margin-left: 10px;
+}
+.visionHeading{
+    color: #fff;
+    font-size: 32px;
+    padding-top: 1px;
+    padding-left: 35px;
+    font-weight: 600;
+    margin-bottom: -30px;
+    
+}
+
+.visionText{
+    color: #fff;
+    font-size: 1rem;
+    padding-top: 1px;
+    padding-left: 35px;
+    padding-bottom: 1rem;
+    font-weight: 400;
+}
+
+@media screen and (max-width:768px){
+    /* .vision  {
+        width: 61%;
+        border-radius: 17px;
+        margin-top: 30px;
+        margin-left: 20px;
+        padding-right: 10px;
+    } */
+    .visionHeading{
+        width: 59%;
+        font-size: 25px;
+        padding-top: 8px;
+        padding-left: 30px;
+    
+    }
+    
+    .visionText{
+        font-size: 15px;
+        padding-top:7px;
+        padding-bottom: 15px;
+        font-weight: 300;
+    }
+
+}
+
+
+@media screen and (max-width:576px){
+    /* .vision  {
+        width: 45%;
+        border-radius: 15px;
+        margin-top: 25px;
+        margin-left: 15px;
+        padding-right: 15px;
+        text-align: justify;
+        
+
+    } */
+    .visionHeading{
+        font-size: 20px;
+        padding-top: 8px;
+        margin-bottom: -6px;
+        margin-left: -6px;
+        
+      
+    }
+    
+    .visionText{
+       
+        font-size: 13px;
+        padding-top:7px;
+        padding-bottom: 10px;
+        font-weight: 300;
+        margin-left: -6px;
+
+        
+
+    }
+    
+
+}
+
+
+@media screen and (max-width:480px){
+    .vision  {
+        /* width: 37%;
+        border-radius: 12px;
+        margin-top: 25px;
+        margin-left: 15px;
+        padding-right: 15px;
+        text-align: justify; */
+        
+
+    }
+    .visionHeading{
+        font-size: 15px;
+        padding-top: 8px;
+        margin-bottom: -6px;
+        margin-left: -6px;
+        
+      
+    }
+    
+    .visionText{
+       
+        font-size: 12px;
+        padding-top:7px;
+        padding-bottom: 10px;
+        font-weight: 300;
+        margin-left: -6px;
+
+        
+
+    }
+    
+
+}
+
+
+@media screen and (max-width:320px){
+    .vision  {
+        width: 24%;
+        border-radius: 12px;
+        margin-top: 25px;
+        margin-left: 15px;
+        padding-right: 15px;
+        text-align: justify;
+        word-spacing: -2px;
+        
+
+    }
+    .visionHeading{
+        font-size: 15px;
+        padding-top: 8px;
+        margin-bottom: -6px;
+        margin-left: -15px;
+        
+      
+    }
+    
+    .visionText{
+       
+        font-size: 13px;
+        padding-top:7px;
+        padding-bottom: 10px;
+        font-weight: 300;
+        margin-left: -15px;
+       
+
+        
+
+    }
+    
+
+}

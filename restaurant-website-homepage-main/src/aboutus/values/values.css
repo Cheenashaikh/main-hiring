@@ -1,0 +1,219 @@
+.values  {
+    background-color: #2C9FAB;
+    border-radius: 20px;
+    margin-top: 40px;
+    width: 98%;
+
+    margin-left: 10px;
+}
+
+.valuesHeading{
+    color: #fff;
+    font-size: 30px;
+    padding-top: 1px;
+    padding-left: 35px;
+    font-weight: 600;
+    margin-bottom: -30px;
+}
+
+.valuesText{
+    color: #fff;
+    font-size: 1rem;
+    padding-top: 1px;
+    padding-left: 35px;
+    padding-bottom: 1rem;
+    font-weight: 400;
+}
+.valuesList{
+    color: #fff;
+    padding-left: 45px;
+    padding-bottom: 30px;
+}
+.valuesList span{
+    font-weight: bold;
+  
+}
+@media screen and (max-width:768px){
+    /* .values  {
+        width: 61%;
+        border-radius: 17px;
+        margin-top: 30px;
+        margin-left: 20px;
+        padding-right: 10px;
+        
+
+    } */
+    .valuesHeading{
+        width: 59%;
+        font-size: 25px;
+        padding-top: 8px;
+        padding-left: 30px;
+      
+    }
+    
+    .valuesText{
+       
+        font-size: 15px;
+        padding-top:7px;
+        padding-bottom: 15px;
+        font-weight: 300;
+        
+
+    }
+    .valuesList{
+      
+        padding-left: 35px;
+        padding-bottom: 26px;
+    }
+    .valuesList span{
+        font-weight: bold;
+        font-size: small;
+      
+    }
+    
+    
+
+}
+
+@media screen and (max-width:576px){
+    /* .values  {
+        width: 45%;
+        border-radius: 15px;
+        margin-top: 25px;
+        margin-left: 15px;
+        padding-right: 15px;
+        text-align: justify;
+        
+
+    } */
+    .valuesHeading{
+        font-size: 20px;
+        padding-top: 8px;
+        margin-bottom: -6px;
+        margin-left: -6px;
+        
+      
+    }
+    
+    .valuesText{
+       
+        font-size: 12px;
+        padding-top:7px;
+        padding-bottom: 10px;
+        font-weight: 300;
+        margin-left: -6px;
+ }
+
+    .valuesList{
+      
+        padding-left: 30px;
+        padding-bottom: 22px;
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .valuesList span{
+        font-weight: bold;
+        font-size: small;
+      
+    }
+}
+
+
+@media screen and (max-width:480px){
+    /* .values {
+        width: 37%;
+        border-radius: 12px;
+        margin-top: 25px;
+        margin-left: 15px;
+        padding-right: 15px;
+        text-align: justify;
+        
+
+    } */
+    .valuesHeading{
+        font-size: 15px;
+        padding-top: 8px;
+        margin-bottom: -6px;
+        margin-left: -6px;
+        
+      
+    }
+    
+    .valuesText{
+       
+        font-size: 12px;
+        padding-top:7px;
+        padding-bottom: 10px;
+        font-weight: 300;
+        margin-left: -6px;
+
+        
+
+    }
+    .valuesList{
+      
+        padding-left: 30px;
+        padding-bottom: 22px;
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .valuesList span{
+        font-weight: bold;
+        font-size: small;
+      
+    }
+
+}
+
+
+@media screen and (max-width:320px){
+    .values {
+        width: 24%;
+        border-radius: 12px;
+        margin-top: 25px;
+        margin-left: 15px;
+        padding-right: 15px;
+        text-align: justify;
+        word-spacing: -2px;
+        
+
+    }
+    .valuesHeading{
+        width: 100%;
+        font-size: 15px;
+        padding-top: 8px;
+        margin-bottom: -6px;
+        margin-left: -4px;
+        word-spacing: 3px;
+        
+      
+    }
+    
+    .valuesTextt{
+       
+        font-size: 13px;
+        padding-top:7px;
+        padding-bottom: 10px;
+        font-weight: 300;
+        margin-left: -6px;
+          
+
+        
+
+    }
+    .valuesList{
+      
+        padding-left: 20px;
+        padding-bottom: 16px;
+        font-size: 13px;
+        line-height: 25px;
+       
+    }
+    .valuesList span{
+        font-weight: bold;
+        font-size: small;
+      
+    }
+   
+
+}

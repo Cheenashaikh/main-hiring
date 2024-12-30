@@ -1,0 +1,62 @@
+/* Enhanced Card Styling */
+.policies-card {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .policies-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  }
+  
+  .policies-card h2 {
+    font-size: 1.5rem;
+    color: #007BFF;
+    font-weight: 600;
+    margin-bottom: 10px;
+  }
+  
+  .policies-card ul {
+    padding-left: 20px;
+  }
+  
+  .policies-card li {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 8px;
+  }
+  
+  .policies-card li strong {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .policies-container {
+    padding: 40px 0;
+  }
+  
+  .policies-row {
+    gap: 30px;
+  }
+  
+  .policies-list {
+    padding-left: 1.5rem;
+  }
+  
+  .policies-container-inner {
+    max-width: 100%;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  
+  @media (max-width: 768px) {
+    .policies-card {
+      margin: 15px 0;
+    }
+  }
+  

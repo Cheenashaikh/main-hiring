@@ -1,0 +1,29 @@
+.gallery h2{
+    margin-left: 400px;
+    color: #FFFFFF;
+}
+
+.gallery{
+    background-color: #1D1A25;
+}
+.imageSlider{
+    /* width: 20px; */
+    height: auto;
+    margin: 20px;
+    padding: 0 10px;
+    box-sizing: border-box;
+    vertical-align: middle;
+    margin-bottom: 90px;
+    max-width: 100%;
+   
+}
+
+.slick-slide img{
+    width: 80%;
+    height: 60vh;
+  
+}
+.slider{
+    padding: 0 20px;
+}
+
